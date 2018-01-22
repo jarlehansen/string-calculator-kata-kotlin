@@ -1,0 +1,1 @@
+rm -rf .git && rm src/main/kotlin/.gitkeep && rm src/test/kotlin/.gitkeep && rm -- "$0"
