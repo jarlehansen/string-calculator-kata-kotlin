@@ -35,6 +35,7 @@ If there are multiple negatives, show all of them in the exception message.
 ### Step 5: ignore big numbers
 Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 
+----
 
 Text adapted from [xpeppers](https://github.com/xpeppers/string-calculator-kata).  
 Credits to [Roy Osherove](http://osherove.com/tdd-kata-1) for the original idea.
