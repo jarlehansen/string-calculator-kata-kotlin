@@ -1,9 +1,7 @@
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first.  
-If you want to use [JUnit](https://junit.org/junit5/) instead of [Spek](http://spekframework.org/), checkout the `junit` branch.
 
 ## Before you start
-* Install the [spek plugin](https://plugins.jetbrains.com/plugin/8564-spek) in IntelliJ.
 * Try not to read ahead.
 * Do one task at a time. The trick is to learn to work incrementally.
 * Make sure you only test for correct inputs. There is no need to test for invalid inputs for this kata.
